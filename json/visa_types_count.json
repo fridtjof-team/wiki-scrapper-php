@@ -1,0 +1,450 @@
+[
+    {
+        "name_short": "visarequired",
+        "name": "visa required",
+        "id": 1,
+        "count": 18253,
+        "cateogry_id": 6
+    },
+    {
+        "name_short": "electronicentryvisa",
+        "name": "electronic entry visa",
+        "id": 2,
+        "count": 89,
+        "cateogry_id": 3
+    },
+    {
+        "name_short": "visaonarrival",
+        "name": "visa on arrival",
+        "id": 3,
+        "count": 4062,
+        "cateogry_id": 4
+    },
+    {
+        "name_short": "evisavisaonarrival",
+        "name": "evisa / visa on arrival",
+        "id": 4,
+        "count": 1544,
+        "cateogry_id": 5
+    },
+    {
+        "name_short": "evisa",
+        "name": "evisa",
+        "id": 5,
+        "count": 1930,
+        "cateogry_id": 3
+    },
+    {
+        "name_short": "visanotrequired",
+        "name": "visa not required",
+        "id": 6,
+        "count": 11473,
+        "cateogry_id": 1
+    },
+    {
+        "name_short": "visitorpermitonarrival",
+        "name": "visitor permit on arrival",
+        "id": 7,
+        "count": 1,
+        "cateogry_id": 2
+    },
+    {
+        "name_short": "visitorspermitonarrival",
+        "name": "visitor's permit on arrival",
+        "id": 8,
+        "count": 189,
+        "cateogry_id": 2
+    },
+    {
+        "name_short": "touristcardrequired",
+        "name": "tourist card required",
+        "id": 9,
+        "count": 115,
+        "cateogry_id": 6
+    },
+    {
+        "name_short": "entrypermitonarrival",
+        "name": "entry permit on arrival",
+        "id": 10,
+        "count": 145,
+        "cateogry_id": 2
+    },
+    {
+        "name_short": "evisarequired",
+        "name": "evisa required",
+        "id": 11,
+        "count": 2,
+        "cateogry_id": 3
+    },
+    {
+        "name_short": "evisitor",
+        "name": "evisitor",
+        "id": 12,
+        "count": 35,
+        "cateogry_id": 3
+    },
+    {
+        "name_short": "permitonarrival",
+        "name": "permit on arrival",
+        "id": 13,
+        "count": 1,
+        "cateogry_id": 2
+    },
+    {
+        "name_short": "electronictravelauthorization",
+        "name": "electronic travel authorization",
+        "id": 14,
+        "count": 26,
+        "cateogry_id": 9
+    },
+    {
+        "name_short": "admissionrefused",
+        "name": "admission refused",
+        "id": 15,
+        "count": 52,
+        "cateogry_id": 7
+    },
+    {
+        "name_short": "visanotrequiredtemporary",
+        "name": "visa not required (temporary)",
+        "id": 16,
+        "count": 9,
+        "cateogry_id": 1
+    },
+    {
+        "name_short": "freedomofmovement",
+        "name": "freedom of movement",
+        "id": 17,
+        "count": 4,
+        "cateogry_id": 1
+    },
+    {
+        "name_short": "freevisaonarrival",
+        "name": "free visa on arrival",
+        "id": 18,
+        "count": 128,
+        "cateogry_id": 4
+    },
+    {
+        "name_short": "visawaiverprogram",
+        "name": "visa waiver program",
+        "id": 19,
+        "count": 34,
+        "cateogry_id": 1
+    },
+    {
+        "name_short": "touristcardonarrival",
+        "name": "tourist card on arrival",
+        "id": 20,
+        "count": 48,
+        "cateogry_id": 2
+    },
+    {
+        "name_short": "visanotrequiredconditional",
+        "name": "visa not required (conditional)",
+        "id": 21,
+        "count": 2,
+        "cateogry_id": 1
+    },
+    {
+        "name_short": "travelbanned",
+        "name": "travel banned",
+        "id": 22,
+        "count": 10,
+        "cateogry_id": 7
+    },
+    {
+        "name_short": "freeentrypermitonarrival",
+        "name": "free entry permit on arrival",
+        "id": 23,
+        "count": 5,
+        "cateogry_id": 2
+    },
+    {
+        "name_short": "etouristvisa",
+        "name": "e-tourist visa",
+        "id": 24,
+        "count": 2,
+        "cateogry_id": 3
+    },
+    {
+        "name_short": "electronictravelauthority",
+        "name": "electronic travel authority",
+        "id": 25,
+        "count": 8,
+        "cateogry_id": 9
+    },
+    {
+        "name_short": "freevisitorspermitonarrival",
+        "name": "free visitor's permit on arrival",
+        "id": 26,
+        "count": 12,
+        "cateogry_id": 2
+    },
+    {
+        "name_short": "onlineregistrationorevisa",
+        "name": "online registration or evisa",
+        "id": 27,
+        "count": 1,
+        "cateogry_id": 3
+    },
+    {
+        "name_short": "evisaorvisaonarrival",
+        "name": "e-visa or visa on arrival",
+        "id": 28,
+        "count": 2,
+        "cateogry_id": 5
+    },
+    {
+        "name_short": "visarequiredciteerrorareftagismissingtheclosingrefseethehelppage",
+        "name": "visa required",
+        "id": 29,
+        "count": 1,
+        "cateogry_id": 6
+    },
+    {
+        "name_short": "visadefactorequired",
+        "name": "visa de facto required",
+        "id": 30,
+        "count": 2,
+        "cateogry_id": 6
+    },
+    {
+        "name_short": "withhomereturnpermitonly",
+        "name": "with home return permit only",
+        "id": 31,
+        "count": 2,
+        "cateogry_id": 1
+    },
+    {
+        "name_short": "evisaentri",
+        "name": "evisa/entri",
+        "id": 32,
+        "count": 1,
+        "cateogry_id": 3
+    },
+    {
+        "name_short": "electronicvisa",
+        "name": "electronic visa",
+        "id": 33,
+        "count": 21,
+        "cateogry_id": 3
+    },
+    {
+        "name_short": "freeevisa",
+        "name": "free e-visa",
+        "id": 34,
+        "count": 1,
+        "cateogry_id": 3
+    },
+    {
+        "name_short": "disputed",
+        "name": "disputed",
+        "id": 35,
+        "count": 2,
+        "cateogry_id": 7
+    },
+    {
+        "name_short": "onlineevisitorvisarequired",
+        "name": "online e600 visitor visa required",
+        "id": 36,
+        "count": 1,
+        "cateogry_id": 3
+    },
+    {
+        "name_short": "asanelectronicvisa",
+        "name": "asan electronic visa",
+        "id": 37,
+        "count": 1,
+        "cateogry_id": 3
+    },
+    {
+        "name_short": "visarequried",
+        "name": "visa requried",
+        "id": 38,
+        "count": 1,
+        "cateogry_id": 6
+    },
+    {
+        "name_short": "travelcertificaterequired",
+        "name": "travel certificate required",
+        "id": 39,
+        "count": 5,
+        "cateogry_id": 8
+    },
+    {
+        "name_short": "admissionrefusedwithpassport",
+        "name": "admission refused (with passport)",
+        "id": 40,
+        "count": 1,
+        "cateogry_id": 7
+    },
+    {
+        "name_short": "electronictravelauthorisation",
+        "name": "electronic travel authorisation",
+        "id": 41,
+        "count": 1,
+        "cateogry_id": 9
+    },
+    {
+        "name_short": "admissionrefusedbettersourceneededcircularreference",
+        "name": "admission refused",
+        "id": 42,
+        "count": 1,
+        "cateogry_id": 7
+    },
+    {
+        "name_short": "electronicvisawaiver",
+        "name": "electronic visa waiver",
+        "id": 43,
+        "count": 4,
+        "cateogry_id": 3
+    },
+    {
+        "name_short": "electronicvisavisaonarrival",
+        "name": "electronic visa / visa on arrival",
+        "id": 44,
+        "count": 7,
+        "cateogry_id": 5
+    },
+    {
+        "name_short": "visanotrequiredconditionsapply",
+        "name": "visa not required (conditions apply)",
+        "id": 45,
+        "count": 1,
+        "cateogry_id": 1
+    },
+    {
+        "name_short": "entrypermitarrival",
+        "name": "entry permit arrival",
+        "id": 46,
+        "count": 1,
+        "cateogry_id": 2
+    },
+    {
+        "name_short": "visitorspermitisgrantedonarrival",
+        "name": "visitor's permit is granted on arrival",
+        "id": 47,
+        "count": 1,
+        "cateogry_id": 2
+    },
+    {
+        "name_short": "onlinevisitorevisa",
+        "name": "online visitor e600 visa",
+        "id": 48,
+        "count": 1,
+        "cateogry_id": 3
+    },
+    {
+        "name_short": "na",
+        "name": "n/a",
+        "id": 49,
+        "count": 106,
+        "cateogry_id": 8
+    },
+    {
+        "name_short": "passportnotrecognized",
+        "name": "passport not recognized",
+        "id": 50,
+        "count": 57,
+        "cateogry_id": 7
+    },
+    {
+        "name_short": "visanotrequirednote",
+        "name": "visa not required",
+        "id": 51,
+        "count": 1,
+        "cateogry_id": 1
+    },
+    {
+        "name_short": "electronicvisatr",
+        "name": "electronic visatr",
+        "id": 52,
+        "count": 1,
+        "cateogry_id": 3
+    },
+    {
+        "name_short": "electronicauthorization",
+        "name": "electronic authorization",
+        "id": 53,
+        "count": 1,
+        "cateogry_id": 9
+    },
+    {
+        "name_short": "visaonarrivalconditional",
+        "name": "visa on arrival (conditional) ",
+        "id": 54,
+        "count": 1,
+        "cateogry_id": 4
+    },
+    {
+        "name_short": "specialprovisions",
+        "name": "special provisions",
+        "id": 55,
+        "count": 1,
+        "cateogry_id": 8
+    },
+    {
+        "name_short": "electronictravelauthorityeta",
+        "name": "electronic travel authority - eta",
+        "id": 56,
+        "count": 1,
+        "cateogry_id": 9
+    },
+    {
+        "name_short": "eta",
+        "name": "eta",
+        "id": 57,
+        "count": 1,
+        "cateogry_id": 9
+    },
+    {
+        "name_short": "withmainlandtravelpermitfortaiwanresidentsorchinesetraveldocumentonly",
+        "name": "with mainland travel permit for taiwan residents or chinese travel document only",
+        "id": 58,
+        "count": 1,
+        "cateogry_id": 1
+    },
+    {
+        "name_short": "affidavitofidentityrequired",
+        "name": "affidavit of identity required",
+        "id": 59,
+        "count": 1,
+        "cateogry_id": 1
+    },
+    {
+        "name_short": "visaonarrivalbutpriorapprovalrequired",
+        "name": "visa on arrival but prior approval required",
+        "id": 60,
+        "count": 1,
+        "cateogry_id": 4
+    },
+    {
+        "name_short": "visaonarrivalevisa",
+        "name": "visa on arrival / evisa",
+        "id": 61,
+        "count": 6,
+        "cateogry_id": 5
+    },
+    {
+        "name_short": "multipleentryvisaonarrival",
+        "name": "multiple-entry visa on arrival",
+        "id": 62,
+        "count": 1,
+        "cateogry_id": 4
+    },
+    {
+        "name_short": "electronicauthorizationsystem",
+        "name": "electronic authorization system",
+        "id": 63,
+        "count": 1,
+        "cateogry_id": 9
+    },
+    {
+        "name_short": "travelrestricted",
+        "name": "travel restricted",
+        "id": 64,
+        "count": 1,
+        "cateogry_id": 7
+    }
+]

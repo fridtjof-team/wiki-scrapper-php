@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name" : "Visa Not Required",
+        "required" : false,
+        "description" : "No visa required."
+    },
+    {
+        "id": 2,
+        "name" : "On Arrival Permit/Authorization",
+        "required" : false,
+        "description" : "No visa required but you might need to get a permit upon arrival."
+    },
+    {
+        "id": 3,
+        "name" : "Electronic Visa",
+        "required" : true,
+        "description" : "You can obtain the visa online before travelling."
+    },
+    {
+        "id": 4,
+        "name" : "On Arrival Visa",
+        "required" : true,
+        "description" : "You can get the visa at the immigration upon arrival."
+    },
+    {
+        "id": 5,
+        "name" : "Electronic/Visa On Arrival",
+        "required" : true,
+        "description" : "You can obtain the visa online or upon arrival."
+    }, 
+    {
+        "id": 6,
+        "name" : "Visa Required",
+        "required" : true,
+        "description" : "You need a physical visa on your passport before arriving at the destination country. This is usually obtained from an authorised travel agent or from the destination country's embassy."
+    }, 
+    {
+        "id": 7,
+        "name" : "No admission",
+        "required" : true,
+        "description" : ""
+    },
+    {
+        "id": 8,
+        "name" : "Others",
+        "required" : true,
+        "description" : ""
+    },
+    {
+        "id": 9,
+        "name" : "Electronic Permit/Authorization",
+        "required" : false,
+        "description" : "No visa required but you might need to get a permit online."
+    }
+]

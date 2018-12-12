@@ -1,0 +1,312 @@
+[
+    {
+        "type": "visarequired",
+        "name": "visa required",
+        "id": 1
+    },
+    {
+        "type": "electronicentryvisa",
+        "name": "electronic entry visa",
+        "id": 2
+    },
+    {
+        "type": "visaonarrival",
+        "name": "visa on arrival",
+        "id": 3
+    },
+    {
+        "type": "evisavisaonarrival",
+        "name": "evisa / visa on arrival",
+        "id": 4
+    },
+    {
+        "type": "evisa",
+        "name": "evisa",
+        "id": 5
+    },
+    {
+        "type": "visanotrequired",
+        "name": "visa not required",
+        "id": 6
+    },
+    {
+        "type": "visitorpermitonarrival",
+        "name": "visitor permit on arrival",
+        "id": 7
+    },
+    {
+        "type": "visitorspermitonarrival",
+        "name": "visitor's permit on arrival",
+        "id": 8
+    },
+    {
+        "type": "touristcardrequired",
+        "name": "tourist card required",
+        "id": 9
+    },
+    {
+        "type": "entrypermitonarrival",
+        "name": "entry permit on arrival",
+        "id": 10
+    },
+    {
+        "type": "evisarequired",
+        "name": "evisa required",
+        "id": 11
+    },
+    {
+        "type": "evisitor",
+        "name": "evisitor",
+        "id": 12
+    },
+    {
+        "type": "permitonarrival",
+        "name": "permit on arrival",
+        "id": 13
+    },
+    {
+        "type": "electronictravelauthorization",
+        "name": "electronic travel authorization",
+        "id": 14
+    },
+    {
+        "type": "admissionrefused",
+        "name": "admission refused",
+        "id": 15
+    },
+    {
+        "type": "visanotrequiredtemporary",
+        "name": "visa not required (temporary)",
+        "id": 16
+    },
+    {
+        "type": "freedomofmovement",
+        "name": "freedom of movement",
+        "id": 17
+    },
+    {
+        "type": "freevisaonarrival",
+        "name": "free visa on arrival",
+        "id": 18
+    },
+    {
+        "type": "visawaiverprogram",
+        "name": "visa waiver program",
+        "id": 19
+    },
+    {
+        "type": "touristcardonarrival",
+        "name": "tourist card on arrival",
+        "id": 20
+    },
+    {
+        "type": "visanotrequiredconditional",
+        "name": "visa not required (conditional)",
+        "id": 21
+    },
+    {
+        "type": "travelbanned",
+        "name": "travel banned",
+        "id": 22
+    },
+    {
+        "type": "freeentrypermitonarrival",
+        "name": "free entry permit on arrival",
+        "id": 23
+    },
+    {
+        "type": "etouristvisa",
+        "name": "e-tourist visa",
+        "id": 24
+    },
+    {
+        "type": "electronictravelauthority",
+        "name": "electronic travel authority",
+        "id": 25
+    },
+    {
+        "type": "freevisitorspermitonarrival",
+        "name": "free visitor's permit on arrival",
+        "id": 26
+    },
+    {
+        "type": "onlineregistrationorevisa",
+        "name": "online registration or evisa",
+        "id": 27
+    },
+    {
+        "type": "evisaorvisaonarrival",
+        "name": "e-visa or visa on arrival",
+        "id": 28
+    },
+    {
+        "type": "visadefactorequired",
+        "name": "visa de facto required",
+        "id": 29
+    },
+    {
+        "type": "withhomereturnpermitonly",
+        "name": "with home return permit only",
+        "id": 30
+    },
+    {
+        "type": "evisaentri",
+        "name": "evisa/entri",
+        "id": 31
+    },
+    {
+        "type": "electronicvisa",
+        "name": "electronic visa",
+        "id": 32
+    },
+    {
+        "type": "freeevisa",
+        "name": "free e-visa",
+        "id": 33
+    },
+    {
+        "type": "disputed",
+        "name": "disputed",
+        "id": 34
+    },
+    {
+        "type": "onlineevisitorvisarequired",
+        "name": "online e600 visitor visa required",
+        "id": 35
+    },
+    {
+        "type": "asanelectronicvisa",
+        "name": "asan electronic visa",
+        "id": 36
+    },
+    {
+        "type": "visarequried",
+        "name": "visa requried",
+        "id": 37
+    },
+    {
+        "type": "travelcertificaterequired",
+        "name": "travel certificate required",
+        "id": 38
+    },
+    {
+        "type": "admissionrefusedwithpassport",
+        "name": "admission refused (with passport)",
+        "id": 39
+    },
+    {
+        "type": "electronictravelauthorisation",
+        "name": "electronic travel authorisation",
+        "id": 40
+    },
+    {
+        "type": "admissionrefusedbettersourceneededcircularreference",
+        "name": "admission refused",
+        "id": 41
+    },
+    {
+        "type": "electronicvisawaiver",
+        "name": "electronic visa waiver",
+        "id": 42
+    },
+    {
+        "type": "electronicvisavisaonarrival",
+        "name": "electronic visa / visa on arrival",
+        "id": 43
+    },
+    {
+        "type": "visanotrequiredconditionsapply",
+        "name": "visa not required (conditions apply)",
+        "id": 44
+    },
+    {
+        "type": "entrypermitarrival",
+        "name": "entry permit arrival",
+        "id": 45
+    },
+    {
+        "type": "visitorspermitisgrantedonarrival",
+        "name": "visitor's permit is granted on arrival",
+        "id": 46
+    },
+    {
+        "type": "onlinevisitorevisa",
+        "name": "online visitor e600 visa",
+        "id": 47
+    },
+    {
+        "type": "na",
+        "name": "n/a",
+        "id": 48
+    },
+    {
+        "type": "passportnotrecognized",
+        "name": "passport not recognized",
+        "id": 49
+    },
+    {
+        "type": "visanotrequirednote",
+        "name": "visa not required",
+        "id": 50
+    },
+    {
+        "type": "electronicvisatr",
+        "name": "electronic visatr",
+        "id": 51
+    },
+    {
+        "type": "electronicauthorization",
+        "name": "electronic authorization",
+        "id": 52
+    },
+    {
+        "type": "visaonarrivalconditional",
+        "name": "visa on arrival (conditional) ",
+        "id": 53
+    },
+    {
+        "type": "specialprovisions",
+        "name": "special provisions",
+        "id": 54
+    },
+    {
+        "type": "electronictravelauthorityeta",
+        "name": "electronic travel authority - eta",
+        "id": 55
+    },
+    {
+        "type": "withmainlandtravelpermitfortaiwanresidentsorchinesetraveldocumentonly",
+        "name": "with mainland travel permit for taiwan residents or chinese travel document only",
+        "id": 56
+    },
+    {
+        "type": "affidavitofidentityrequired",
+        "name": "affidavit of identity required",
+        "id": 57
+    },
+    {
+        "type": "visaonarrivalbutpriorapprovalrequired",
+        "name": "visa on arrival but prior approval required",
+        "id": 58
+    },
+    {
+        "type": "visaonarrivalevisa",
+        "name": "visa on arrival / evisa",
+        "id": 59
+    },
+    {
+        "type": "multipleentryvisaonarrival",
+        "name": "multiple-entry visa on arrival",
+        "id": 60
+    },
+    {
+        "type": "electronicauthorizationsystem",
+        "name": "electronic authorization system",
+        "id": 61
+    },
+    {
+        "type": "travelrestricted",
+        "name": "travel restricted",
+        "id": 62
+    }
+]
